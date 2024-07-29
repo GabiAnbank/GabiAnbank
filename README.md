@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem Vindos ao meu perfil 💙
 
-<!--
-**GabiAnbank/GabiAnbank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*O meu nome é Gabriela Anbank*
+- Estou estudando na Alura📚;
+- EStou me dessenvolvendo na linguagem JavaScript 🖥️
+- Vou mostrar aqui meus projetos e meus trabalalhos 📎
+  
+## Você pode entrar em contato comigo 📧
+pelegrinogabi0111@gmail.com
 
-Here are some ideas to get you started:
+@gabi.anbank
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![]()
+![image](https://github.com/user-attachments/assets/727e3b84-dc8f-450c-a426-a4e18c0e2577)
